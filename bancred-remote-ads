@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "ads_enabled": false,
-  "test_mode": false,
+  "ads_enabled": true,
+  "test_mode": true,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "ad_units": {
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917",
-    "app_open": "ca-app-pub-3940256099942544/9257395921"
+    "banner": "ca-app-pub-3380498514301154/2382953815",
+    "native": "ca-app-pub-3380498514301154/5623148648",
+    "interstitial": "ca-app-pub-3380498514301154/5699382293",
+    "rewarded": "ca-app-pub-3380498514301154/8236161703",
+    "app_open": "ca-app-pub-3380498514301154/4386300624"
   },
-  "banner_enabled": false,
-  "native_enabled": false,
-  "interstitial_enabled": false,
-  "rewarded_enabled": false,
-  "app_open_enabled": false,
-  "reward_lock_enabled": false,
+  "banner_enabled": true,
+  "native_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
+  "reward_lock_enabled": true,
   "cache_ttl_seconds": 60,
   "features": {
-    "comparador": false,
-    "analise_financeira": false,
-    "historico": false,
-    "simulador_avancado": false,
-    "planejamento_mensal": false
+    "comparador": true,
+    "analise_financeira": true,
+    "historico": true,
+    "simulador_avancado": true,
+    "planejamento_mensal": true
   }
 }
