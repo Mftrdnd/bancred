@@ -10,18 +10,18 @@
     "rewarded": "ca-app-pub-3380498514301154/8236161703",
     "app_open": "ca-app-pub-3380498514301154/4386300624"
   },
-  "banner_enabled": false,
-  "native_enabled": true,
-  "interstitial_enabled": false,
-  "rewarded_enabled": true,
-  "app_open_enabled": true,
-  "reward_lock_enabled": true,
+  "banner_enabled": true,
+  "native_enabled": false,
+  "interstitial_enabled": true,
+  "rewarded_enabled": false,
+  "app_open_enabled": false,
+  "reward_lock_enabled": false,
   "cache_ttl_seconds": 60,
   "features": {
-    "comparador": true,
-    "analise_financeira": true,
-    "historico": true,
-    "simulador_avancado": true,
-    "planejamento_mensal": true
+    "comparador": false,
+    "analise_financeira": false,
+    "historico": false,
+    "simulador_avancado": false,
+    "planejamento_mensal": false
   }
 }
